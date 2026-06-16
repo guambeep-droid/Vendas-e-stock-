@@ -1,0 +1,6 @@
+{
+  "name": "my sales & Stocks",
+  "description": "Uma ferramenta completa integrada para comerciantes moçambicanos gerenciarem stock, controlarem caixa com M-Pesa, e-Mola, numerário e cartões em Meticais (MT).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

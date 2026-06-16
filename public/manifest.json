@@ -1,0 +1,22 @@
+{
+  "short_name": "CantinaMaster",
+  "name": "Cantina Master - POS & Vendas",
+  "description": "Sistema de Vendas e Gestão de Stock para Cantinas",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/isometric/512/pos-terminal.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "https://img.icons8.com/isometric/512/pos-terminal.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "display": "standalone",
+  "orientation": "portrait"
+}
